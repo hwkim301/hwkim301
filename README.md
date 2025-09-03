@@ -2,7 +2,7 @@ Hello!
 
 My name is **Hyungwon Kim** aka **hwkim301**, and I’m a student.
 
-I’m currently living in Seoul, Korea. I’m 25 years old.
+I’m currently living in Seoul, Korea.
 
 I’m a self taught programmer.
 
