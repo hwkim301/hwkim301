@@ -1,14 +1,8 @@
 Hello!
 
-My name is **Hyungwon Kim** aka **hwkim301**, and I’m a student.
+My name is **Hyungwon Kim** aka **hwkim301**.
 
-I’m currently living in Seoul, Korea.
-
-I’m a very passionate and tenacious programmer who enjoys solving complex problems and meticulously documents the whole process.
-
-I’m interested in Python and *nix.
-
-You can contact me on Github, Telegram.
+I’m interested in Linux(GCC,Glibc,etc) and Python. 
 
 Here are the programming languages or software that I like to use.
 
